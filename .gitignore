@@ -1,0 +1,11 @@
+/.DS_Store
+/.hugo_build.lock
+/archetypes
+/assets
+/content
+/data
+/hugo.yaml
+/i18n
+/layouts
+/static
+/themes
